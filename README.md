@@ -1,4 +1,4 @@
-# KNU-chat
+# KOBE / Knu Obliging chat Bot Embodied
 
 
 ## 주제
