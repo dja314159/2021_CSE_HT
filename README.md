@@ -46,4 +46,3 @@
 ## 시연영상
 
 https://youtu.be/-FKQRuG4ks8
-<iframe width="1380" height="487" src="https://www.youtube.com/embed/-FKQRuG4ks8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
