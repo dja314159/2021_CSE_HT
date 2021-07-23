@@ -5,6 +5,9 @@
 
 경북대학교 학생들을 위한 챗봇
 
+![image](https://user-images.githubusercontent.com/62656584/126735166-3537bd59-0f08-422b-a200-2a1941fcec21.png)
+
+
 
 ## 동기 및 목적
 
