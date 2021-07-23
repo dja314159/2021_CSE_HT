@@ -14,6 +14,12 @@
 - 대면 등교를 했더라면 동기들과 소통하며 정보를 쉽게 얻을 수 있지만 코로나-19 로 인해 정보를 쉽게 얻을 수 없습니다.
 - 챗봇을 만들어 정보에 대한 접근성을 높여 이러한 불편함을 해소하고자 합니다.
 
+## 제작
+- 본 챗봇은 오픈소스 kochat, kocrawl을 기반으로 제작되었습니다.
+- 학사일정은 front-end 영역에 정보를 미리 저장 해두어 처리하였습니다.
+- 맛집 정보는 질의 학습 데이터 2,755개로 GensimEmbedding을 통해 학습시켰습니다.
+- 코로나 정보는 공식 사이트와 교내 코로나 19 게시판의 정보를 담아 왔습니다.
+
 ## 용도
 
 1) 학사 일정(시험기간, 개강일, 종강일, 성적 발표일 등)이나 최근 공지사항을 확인하는데 있어서 매번 학교 홈페이지에 접속해야하는 불편함이 있어 이를 챗봇을 통해 해소하고자 합니다.
@@ -39,8 +45,6 @@
  
 ## 시연영상
 
-시연영상을 넣어주세요
+https://youtu.be/-FKQRuG4ks8
+<iframe width="956" height="538" src="https://youtu.be/-FKQRuG4ks8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## 기타
-
-- 본 챗봇은 오픈소스 kochat, kocrawl을 기반으로 제작되었습니다.
